@@ -1,4 +1,4 @@
-#Developed by github.com/useragents
+#Used for testing purposes, don't use to get in trouble, KNOW WHAT YOUR DOING
 #This script was made for educational purposes. I am not responsible for your actions using this script. This code is a few months old, hence why it may not appear as professional but still works to this day.
 try:
     from selenium import webdriver
